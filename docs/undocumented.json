@@ -1,0 +1,89 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/CoreDataStore.swift",
+      "line": 31,
+      "symbol": "CoreDataStore.fetchRequest(for:predicate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/CoreDataStore.swift",
+      "line": 150,
+      "symbol": "CoreDataStore.performBlock(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/CoreDataStore.swift",
+      "line": 161,
+      "symbol": "CoreDataStore.performAndWait(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 18,
+      "symbol": "PersistenceModel.spaceType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 19,
+      "symbol": "PersistenceModel.assetType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 20,
+      "symbol": "PersistenceModel.entryTypes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 22,
+      "symbol": "PersistenceModel.init(spaceType:assetType:entryTypes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 38,
+      "symbol": "ContentSysPersistable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/PersistenceStore.swift",
+      "line": 77,
+      "symbol": "PersistenceStore.performBlock(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/PersistenceStore.swift",
+      "line": 79,
+      "symbol": "PersistenceStore.performAndWait(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/SynchronizationManager.swift",
+      "line": 137,
+      "symbol": "SynchronizationManager.syncToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jroehl/dev/contentful-persistence.swift/Sources/ContentfulPersistence/SynchronizationManager.swift",
+      "line": 145,
+      "symbol": "SynchronizationManager.performAndWait(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/jroehl/dev/contentful-persistence.swift"
+}
